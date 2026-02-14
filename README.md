@@ -14,4 +14,8 @@
 etcd установлен на мастер ноду  
 <img width="682" height="57" alt="image" src="https://github.com/user-attachments/assets/e2c27fbb-a1c0-477a-a16a-3b3a19b46abd" />
 
+## Задание 2*. Установить HA кластер
+Установить кластер в режиме HA.
+Использовать нечётное количество Master-node.
+Для cluster ip использовать keepalived или другой способ.
 
