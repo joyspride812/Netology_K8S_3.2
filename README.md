@@ -19,5 +19,9 @@ etcd установлен на мастер ноду
 Использовать нечётное количество Master-node.
 Для cluster ip использовать keepalived или другой способ.
 
-Переобразую 2 worker ноды в  control-plane
+Переобразую 2 worker ноды в  control-plane.  
+Удаляю worker ноды: k8s-2 и k8s-3  
+<img width="857" height="208" alt="image" src="https://github.com/user-attachments/assets/cea8dd09-48fc-4cdb-899f-3be66d93a4bf" />  
+
+
 
